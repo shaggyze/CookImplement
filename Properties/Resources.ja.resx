@@ -180,6 +180,26 @@
 エピ = 5, ジェニファー = 6, ルワイ = 7, ピエリック = 8, グラニテス = 9,
 バンスト = 10, ゴードン = 11, フレイザー  = 12, 採集 = 13, 料理 = 14</value>
   </data>
+  <data name="Rank1" xml:space="preserve">
+    <value>Rank 1 (パイ)</value>
+    <comment>15</comment>
+  </data>
+  <data name="Rank2" xml:space="preserve">
+    <value>Rank 2 (パイ)</value>
+    <comment>14</comment>
+  </data>
+  <data name="Rank3" xml:space="preserve">
+    <value>Rank 3 (パイ)</value>
+    <comment>13</comment>
+  </data>
+  <data name="Rank4" xml:space="preserve">
+    <value>Rank 4 (パイ)</value>
+    <comment>12</comment>
+  </data>
+  <data name="Rank5" xml:space="preserve">
+    <value>Rank 5 (パイ)</value>
+    <comment>11</comment>
+  </data>
   <data name="Rank6" xml:space="preserve">
     <value>Rank 6 (パイ)</value>
     <comment>10</comment>

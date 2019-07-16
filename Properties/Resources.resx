@@ -188,6 +188,26 @@
 고든 = 10, 프레이저 = 11, 반스트 = 12, 채집 = 13, 요리 = 14, 
 루카스 = 15, 카독 = 16</value>
   </data>
+    <data name="Rank1" xml:space="preserve">
+    <value>줄리앙 닝</value>
+    <comment>15</comment>
+  </data>
+    <data name="Rank2" xml:space="preserve">
+    <value>수족관</value>
+    <comment>14</comment>
+  </data>
+    <data name="Rank3" xml:space="preserve">
+    <value>발효</value>
+    <comment>13</comment>
+  </data>
+    <data name="Rank4" xml:space="preserve">
+    <value>피자 만들기</value>
+    <comment>12</comment>
+  </data>
+    <data name="Rank5" xml:space="preserve">
+    <value>김이 나는</value>
+    <comment>11</comment>
+  </data>
   <data name="Rank6" xml:space="preserve">
     <value>파이</value>
     <comment>10</comment>

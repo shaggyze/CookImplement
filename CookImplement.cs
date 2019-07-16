@@ -60,7 +60,12 @@ namespace CookImplement
 				case '8': return 8;
 				case '7': return 9;
 				case '6': return 10;
-				default: return -1;
+                case '5': return 11;
+                case '4': return 12;
+                case '3': return 13;
+                case '2': return 14;
+                case '1': return 15;
+                default: return -1;
 			}
 		}
 		public static string getRankName(int i)
@@ -78,7 +83,12 @@ namespace CookImplement
 				case 8: return CookImplement.Properties.Resources.Rank8;
 				case 9: return CookImplement.Properties.Resources.Rank7;
 				case 10: return CookImplement.Properties.Resources.Rank6;
-				default: return "?";
+                case 11: return CookImplement.Properties.Resources.Rank5;
+                case 12: return CookImplement.Properties.Resources.Rank4;
+                case 13: return CookImplement.Properties.Resources.Rank3;
+                case 14: return CookImplement.Properties.Resources.Rank2;
+                case 15: return CookImplement.Properties.Resources.Rank1;
+                default: return "?";
 			}
 		}
 		public static string getRankName(char c)
@@ -96,7 +106,12 @@ namespace CookImplement
 				case '8': return CookImplement.Properties.Resources.Rank8;
 				case '7': return CookImplement.Properties.Resources.Rank7;
 				case '6': return CookImplement.Properties.Resources.Rank6;
-				default: return "?";
+                case '5': return CookImplement.Properties.Resources.Rank5;
+                case '4': return CookImplement.Properties.Resources.Rank4;
+                case '3': return CookImplement.Properties.Resources.Rank3;
+                case '2': return CookImplement.Properties.Resources.Rank2;
+                case '1': return CookImplement.Properties.Resources.Rank1;
+                default: return "?";
 			}
 		}
 		public static Bitmap getRankBitmap(int i)
@@ -114,7 +129,12 @@ namespace CookImplement
 				case 8: return CookImplement.Properties.Resources._08_8;
 				case 9: return CookImplement.Properties.Resources._09_7;
 				case 10: return CookImplement.Properties.Resources._10_6;
-				default: return null;
+                case 11: return CookImplement.Properties.Resources._11_5;
+                case 12: return CookImplement.Properties.Resources._12_4;
+                case 13: return CookImplement.Properties.Resources._13_3;
+                case 14: return CookImplement.Properties.Resources._14_2;
+                case 15: return CookImplement.Properties.Resources._15_1;
+                default: return null;
 			}
 		}
 		public static Bitmap getRankBitmap(char c)
@@ -132,7 +152,12 @@ namespace CookImplement
 				case '8': return CookImplement.Properties.Resources._08_8;
 				case '7': return CookImplement.Properties.Resources._09_7;
 				case '6': return CookImplement.Properties.Resources._10_6;
-				default: return null;
+                case '5': return CookImplement.Properties.Resources._11_5;
+                case '4': return CookImplement.Properties.Resources._12_4;
+                case '3': return CookImplement.Properties.Resources._13_3;
+                case '2': return CookImplement.Properties.Resources._14_2;
+                case '1': return CookImplement.Properties.Resources._15_1;
+                default: return null;
 			}
 		}
 	}

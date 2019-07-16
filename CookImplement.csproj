@@ -69,7 +69,9 @@
     <EmbeddedResource Include="Dialog\ErrorDialog.resx">
       <DependentUpon>ErrorDialog.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.ja.resx" />
+    <EmbeddedResource Include="Properties\Resources.ja.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -111,6 +113,11 @@
     <None Include="Resources\08-8.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\11-5.png" />
+    <Content Include="Resources\12-4.png" />
+    <Content Include="Resources\13-3.png" />
+    <Content Include="Resources\14-2.png" />
+    <Content Include="Resources\15-1.png" />
     <Content Include="Resources\button_cancel.png" />
     <Content Include="Resources\button_ok.png" />
     <None Include="Resources\critical.png" />
