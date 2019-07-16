@@ -342,6 +342,21 @@
   <data name="_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\10-6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+    <data name="_11_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11-5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+    <data name="_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12-4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+    <data name="_13_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13-3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+    <data name="_14_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\14-2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+    <data name="_15_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\15-1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gear.ico;System.Drawing.Icon, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
