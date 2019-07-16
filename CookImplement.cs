@@ -37,7 +37,12 @@ namespace CookImplement
 				case 8: return '8';
 				case 9: return '7';
 				case 10: return '6';
-				default: return '\0';
+                case 11: return '5';
+                case 12: return '4';
+                case 13: return '3';
+                case 14: return '2';
+                case 15: return '1';
+                default: return '\0';
 			}
 		}
 		public static int getRankId(char c)
